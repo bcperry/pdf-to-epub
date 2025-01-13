@@ -2,3 +2,4 @@ tmp/
 final_epubs/
 examples/
 .venv/
+converted_epubs/
